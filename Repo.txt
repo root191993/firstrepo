@@ -3,3 +3,4 @@ good morning
 i added this line in the update-readme 
 it's sunny outside is so hot
 it's windy outside today
+today it's cloudy 
