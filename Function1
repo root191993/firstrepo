@@ -1,0 +1,8 @@
+
+def Happy_Birthday(name,age):
+    Print(f"Happy Birthday {}")
+    print(f"Your {} years old")
+    Print("Happy Birthday To You")
+
+
+Happy_Birthday("Pavan", 30)    
